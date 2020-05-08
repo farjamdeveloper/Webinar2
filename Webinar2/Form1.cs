@@ -24,5 +24,9 @@ namespace Webinar2
             int sum=number1 + number2;
             textBox3.Text = sum.ToString();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ;
     }
 }
